@@ -251,7 +251,7 @@
         de.renew.gui.CPNTextFigure "attributes" "attributes" 4 "TextAlignment" "Int" 1 "FigureWithID" "Int" 27675 "FrameColor" "Color" 255 199 158 255 "FillColor" "Color" 254 254 254 255 1534 810 "x" "SansSerif" 0 12 0 REF 245 
             CH.ifa.draw.standard.OffsetLocator 0 0 
                 CH.ifa.draw.standard.RelativeLocator 0.5 0.5   1  
-        de.renew.gui.CPNTextFigure "attributes" "attributes" 4 "TextAlignment" "Int" 1 "FigureWithID" "Int" 27676 "FrameColor" "Color" 255 199 158 255 "FillColor" "Color" 192 192 192 255 1553 843 "X=[20,80];\n" "SansSerif" 0 12 0 REF 240 
+        de.renew.gui.CPNTextFigure "attributes" "attributes" 4 "TextAlignment" "Int" 1 "FigureWithID" "Int" 27676 "FrameColor" "Color" 255 199 158 255 "FillColor" "Color" 192 192 192 255 1553 843 "X=[10,90];\n" "SansSerif" 0 12 0 REF 240 
             CH.ifa.draw.standard.OffsetLocator 66 18 
                 CH.ifa.draw.standard.RelativeLocator 0.5 0.5   1  
         de.renew.gui.CPNTextFigure "attributes" "attributes" 4 "TextAlignment" "Int" 1 "FigureWithID" "Int" 27677 "FrameColor" "Color" 255 199 158 255 "FillColor" "Color" 255 199 158 255 415 800 "this:finish({\"a\",\"b\"})" "SansSerif" 0 12 0 REF 160 
@@ -266,7 +266,7 @@
         de.renew.gui.CPNTextFigure "attributes" "attributes" 4 "TextAlignment" "Int" 1 "FigureWithID" "Int" 27680 "FrameColor" "Color" 255 199 158 255 "FillColor" "Color" 255 199 158 255 1233 825 "high" "SansSerif" 1 12 0 REF 187 
             CH.ifa.draw.standard.OffsetLocator -32 -7 
                 CH.ifa.draw.standard.RelativeLocator 0.5 0.5   2  
-        de.renew.gui.CPNTextFigure "attributes" "attributes" 4 "TextAlignment" "Int" 1 "FigureWithID" "Int" 27681 "FrameColor" "Color" 255 199 158 255 "FillColor" "Color" 192 192 192 255 1200 842 "X=[80,20];\n" "SansSerif" 0 12 0 REF 187 
+        de.renew.gui.CPNTextFigure "attributes" "attributes" 4 "TextAlignment" "Int" 1 "FigureWithID" "Int" 27681 "FrameColor" "Color" 255 199 158 255 "FillColor" "Color" 192 192 192 255 1200 842 "X=[90,10];\n" "SansSerif" 0 12 0 REF 187 
             CH.ifa.draw.standard.OffsetLocator -46 18 
                 CH.ifa.draw.standard.RelativeLocator 0.5 0.5   1  
         de.renew.gui.CPNTextFigure "attributes" "attributes" 4 "TextAlignment" "Int" 1 "FigureWithID" "Int" 27682 "FrameColor" "Color" 255 199 158 255 "FillColor" "Color" 255 199 158 255 1546 824 "low" "SansSerif" 1 12 0 REF 240 
